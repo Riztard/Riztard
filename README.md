@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![@riztard's Holopin board](https://holopin.io/api/user/board?user=riztard)](https://holopin.io/@riztard)
