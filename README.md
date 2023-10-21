@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Riztard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riztard&show_icons=true&theme=radical&hide_border=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riztard&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riztard&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
