@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riztard&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+[![trophy](https://github-profile-trophy-xi-kohl.vercel.app/?username=riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--[![trophy](https://nirzak-trophies.vercel.app/?username=Riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 [![@riztard's Holopin board](https://holopin.io/api/user/board?user=riztard)](https://holopin.io/@riztard)
