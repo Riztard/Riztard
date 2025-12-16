@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![trophy](https://github-profile-trophy-xi-kohl.vercel.app/?username=riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-xi-kohl.vercel.app/?username=riztard&theme=radical&no-frame=true&rank=-C,-?,?&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--[![trophy](https://nirzak-trophies.vercel.app/?username=Riztard&theme=radical&no-frame=true&rank=-C&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)-->
 
